@@ -1,0 +1,1 @@
+本路径计算udbar的x分布，所以只能在zeroskewness情况下计算，此时图ikl也只有delta因此只有彩虹和kr图。
